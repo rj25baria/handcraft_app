@@ -1,1 +1,1 @@
-# handcraft_app
+# handicraft_app
